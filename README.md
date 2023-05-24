@@ -1,5 +1,3 @@
-Sure, here is the readme.md version of the text:
-
 # Arithmetic and Logical Unit Design Project
 
 I am thrilled to announce that our team, under the guidance of our course coordinator [Name], has successfully completed the Arithmetic and Logical Unit Design Project as a part of our Digital Circuits course, ECE 212!
